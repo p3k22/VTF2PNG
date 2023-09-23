@@ -1,0 +1,14 @@
+C:\Users\P3k\source\repos\HL2TextureExtraction\bin\Debug\HL2TextureExtraction.exe.config
+C:\Users\P3k\source\repos\HL2TextureExtraction\bin\Debug\HL2TextureExtraction.exe
+C:\Users\P3k\source\repos\HL2TextureExtraction\bin\Debug\HL2TextureExtraction.pdb
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.csproj.AssemblyReference.cache
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\MainWindow.g.cs
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\App.g.cs
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction_MarkupCompile.cache
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\MainWindow.baml
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.g.resources
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.Properties.Resources.resources
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.csproj.GenerateResource.cache
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.csproj.CoreCompileInputs.cache
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.exe
+C:\Users\P3k\source\repos\HL2TextureExtraction\obj\Debug\HL2TextureExtraction.pdb
